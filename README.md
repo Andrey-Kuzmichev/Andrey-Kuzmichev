@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Andrey-Kuzmichev
-- 👀 I’m interested in хз
-- 🌱 I’m currently learning хз
 - 📫 How to reach me vk.me/id239185852
 
 <!---
