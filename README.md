@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrey-Kuzmichev
-- 📫 How to reach me vk.me/id239185852
+- 📫 How to reach me vk.me/id239185852 or t.me/bnull
 
 <!---
 Andrey-Kuzmichev/Andrey-Kuzmichev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
